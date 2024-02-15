@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ReusableComposable"
 include(":app")
+include(":composecomponents")
