@@ -9,6 +9,12 @@ Consider the typical Android development scenario where crafting UI components c
 
 ### Example and Use Cases:
 To illustrate the practicality of this library, let's take a common scenario: a loading button that needs to disable itself during a process and re-enable upon completion. This scenario is ubiquitous in many projects and serves as just one example of the myriad use cases this library will cover. From handling complex forms to managing dynamic data displays, My goal is to encompass a wide range of UI scenarios, making it a go-to resource for Android developers.
+Some of the common- ui components I can think of right now is shown below :
+### Animated Card
+![resized-card](https://github.com/vivekgupta4Git/compose-components/assets/91813403/105e97d0-5a92-45e0-8005-d530f5f6e729)
+
+### Loading Button
+![loading-resize](https://github.com/vivekgupta4Git/compose-components/assets/91813403/7bb2dad3-ba29-427f-abde-b3e83683be14)
 
 ## Collaboration:
 This initiative is not just about a library; it's about building a community. I invite developers from all corners to actively contribute to the library. I envision a collaborative space where ideas flow freely, and contributions shape the library's evolution. With clearly defined contribution guidelines, I encourage developers to actively engage and leave their mark on this growing resource.
@@ -21,3 +27,4 @@ My commitment doesn’t end with the initial release. Regular updates will ensur
 
 ## Conclusion:
 In conclusion, my journey with the Jetpack Compose UI Component Library is not merely about code; it's about empowerment and collaboration. As developers, I've benefited from the community, and this is my opportunity to give back. Together, let's embark on a mission to redefine UI development for Android, one reusable component at a time. Join us, contribute your expertise, and let's shape the future of Jetpack Compose UI development collaboratively!
+
