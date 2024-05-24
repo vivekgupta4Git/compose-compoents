@@ -1,3 +1,4 @@
+tl;dr : https://www.youtube.com/watch?v=JvbyGcqdWBA&t=199s 
 # Compose-components
 Creating UI components from scratch often involves repetitive tasks, leading to code duplication and longer development cycles. My motivation is to address these pain points by providing a centralised library of reusable Jetpack Compose components, allowing developers to focus more on application logic than boilerplate UI code.
 
